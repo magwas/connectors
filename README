@@ -1,0 +1,17 @@
+This project is in the ideation phase. No design has been built or tested in any way. I would like to gather feedback on the design itself first.
+
+So please tell me what do you think.
+
+Alternative NMEA2000 connector set.
+
+I think that one big problem with adoption of NMEA2000 is its cost. For example you want an intelligent navigation light, so you can simplify your wiring, and it can alert you in case of problem. For that you need a tee, a piece of cable and that intelligent navi light. Look up the prices. You still need it?
+
+So this is an open hardware design for a set with some cheap readily available parts (contacts and o-rings), and printed housing. Designed to be used with 4x1.5mm cable with outer diameter of 10.5mm.
+
+While there are some factors which might make open hardware cheaper, they mostly work in the long run. Here we just pay with our time of 3D printing for the freedom of right to repair and for not needing to spend real money.
+
+Known issues:
+- The threads are made with the ThreadProfile FreeCad module. They are not nice.
+- Gaps between fitting parts are not yet designed in. They won't fit if you just print them.
+- I am not sure whether the tee housing is actually printable, due to overhangs.
+
